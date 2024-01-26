@@ -1,8 +1,8 @@
-#Assignment 2 (Sekerbek Abylaikhan SE2329) Book Library
+# Assignment 2 (Sekerbek Abylaikhan SE2329) Book Library
 
 Just simple console Library menagment system
 
-##Usage
+## Usage
 
 After runnig the code, you can see the Menu
 
@@ -18,3 +18,5 @@ After runnig the code, you can see the Menu
 0.For Exit
 
 ## Thank you, thats all
+
+[Link to github repository](https://github.com/AbylaiSekerbek7/Assignment-2_Java)
